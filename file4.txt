@@ -2,3 +2,4 @@ From master branch creation
 New file
 Changes from within branch 4
 From master
+I'm from remote master.
